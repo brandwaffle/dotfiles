@@ -7,6 +7,7 @@ alias trunk='ssh gigaom@wp.gostage.it'
 alias pro='ssh ubuntu@gostage.it'
 alias falcon='ssh ec2-user@falcon.pro.gostage.it'
 alias vasken='ssh ec2-user@vasken.gostage.it'
+alias wpcs='phpcs --standard=WordPress -s'
 
 ##
 # Your previous /Users/vkhauri/.bash_profile file was backed up as /Users/vkhauri/.bash_profile.macports-saved_2012-02-14_at_12:15:07
